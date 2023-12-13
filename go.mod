@@ -1,0 +1,3 @@
+module github.com/woesbot/gorip
+
+go 1.21.3

@@ -1,0 +1,10 @@
+misc/
+web/
+testdata/
+
+.*/
+*.txt
+*.tree
+*.manifest
+!examples/*.tree
+!examples/*.manifest
